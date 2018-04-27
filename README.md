@@ -1,14 +1,14 @@
 # Projeto Mãe Passei!
 Repositório destinado ao controle de versionamento de código/documentos do nosso projeto Mãe Passei!
 
-# Definição de Escopo do Projeto
+# Definição de Escopo do Projeto <br>
 
-O que temos no mercado para auxiliar pré-vestibulandos?
-&bull; Canais no YouTube;
-&bull; Portais com PDF’s muito extensos;
-&bull; Pouca praticidade;
-&bull; Conteúdo espalhado em muitos sites;
-&bull; Portais amadores e Informais (muitos blogs);
+O que temos no mercado para auxiliar pré-vestibulandos? <br>
+&bull; Canais no YouTube; <br>
+&bull; Portais com PDF’s muito extensos; <br>
+&bull; Pouca praticidade; <br>
+&bull; Conteúdo espalhado em muitos sites; <br>
+&bull; Portais amadores e Informais (muitos blogs); <br>
 
 Nossa proposta:
 Facilitador
