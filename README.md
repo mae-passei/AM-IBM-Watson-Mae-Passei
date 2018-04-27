@@ -4,11 +4,11 @@ Repositório destinado ao controle de versionamento de código/documentos do nos
 # Definição de Escopo do Projeto
 
 O que temos no mercado para auxiliar pré-vestibulandos?
-Canais no YouTube.
-Portais com PDF’s muito extensos.
-Pouca praticidade.
-Conteúdo espalhado em muitos sites.
-Portais amadores e Informais (muitos blogs);
+&bull; Canais no YouTube;
+&bull; Portais com PDF’s muito extensos;
+&bull; Pouca praticidade;
+&bull; Conteúdo espalhado em muitos sites;
+&bull; Portais amadores e Informais (muitos blogs);
 
 Nossa proposta:
 Facilitador
